@@ -1,0 +1,57 @@
+header {
+  width: 100%;
+  height: 45px;
+  color: white;
+  background-color: #2d3436;
+}
+
+ul {
+  display: block;
+  padding: 14px;
+  overflow: hidden;
+  list-style: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  padding-left: 14px;
+}
+
+.card {
+  background: linear-gradient(to right, #67a1ff, #c2e9fb);
+  padding: 10px;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.slider-img {
+  width: 96vw;
+  height: 10%;
+}
+
+.image {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 20px 20px 0 0;
+}
+p {
+  column-fill: balance;
+  column-rule: 2px double black;
+  column-width: 200px;
+  height: 380px !important;
+  text-align: justify;
+}
+.footer {
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin-bottom: 0vh;
+}
